@@ -1,9 +1,5 @@
 # Git操作
 
-![image-20210918094418440](C:\Users\10607\AppData\Roaming\Typora\typora-user-images\image-20210918094418440.png)
-
-![image-20210918094501705](C:\Users\10607\AppData\Roaming\Typora\typora-user-images\image-20210918094501705.png)
-
 [Git教程 - 廖雪峰的官方网站 (liaoxuefeng.com)](https://www.liaoxuefeng.com/wiki/896043488029600)
 
 # 正文：
