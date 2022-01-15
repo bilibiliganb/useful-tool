@@ -6,7 +6,6 @@
 
 git可以设置使用编码格式：
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
 
 ```
 $ git config --global core.quotepath false          # 显示 status 编码
@@ -17,7 +16,6 @@ $ export LESSCHARSET=utf-8
 # 最后一条命令是因为 git log 默认使用 less 分页，所以需要 bash 对 less 命令进行 utf-8 编码
 ```
 
-[![复制代码](https://common.cnblogs.com/images/copycode.gif)](javascript:void(0);)
 
 先修改自己的git名字：
 
