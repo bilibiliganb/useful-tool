@@ -5,3 +5,29 @@ https://www.cnblogs.com/baixdu/p/4944720.html
 sqlite
 http://www.995w.com/K/Show?typeId=TYPE2020062700001&id=ART2020062700005
 https://www.cnblogs.com/luxiaoxun/p/3784729.html
+
+
+
+
+https://www.cnblogs.com/luxiaoxun/p/3288003.html
+
+
+public void AddITreeView(int count , TreeNode treenode)
+
+{
+
+foreach(TreeNod treenodeitem in treenodelist)
+
+{
+if(treenodeitem.dircount==count&&treenodeitem.parent_id==treenode.node_id)
+
+{
+treenode.Nodes.Add(treenodeitem);
+
+AddInTree(++count,treenodeitem);
+
+}
+
+
+
+}
