@@ -25,9 +25,15 @@ if(treenodeitem.dircount==count&&treenodeitem.parent_id==treenode.node_id)
 treenode.Nodes.Add(treenodeitem);
 
 AddInTree(++count,treenodeitem);
+}
 
 }
 
 
 
-}
+
+https://blog.csdn.net/zhtmp/article/details/6580565
+
+
+
+http://www.chinascsoft.com/ActicleDetail.aspx?ID=67
